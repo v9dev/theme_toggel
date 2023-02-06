@@ -1,2 +1,2 @@
 # theme_toggel
-make a theme toggle foe websitw
+make a theme toggle foe website
