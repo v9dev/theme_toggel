@@ -1,5 +1,6 @@
-# theme_toggel
-make a theme toggle foe website
+# Theme Toggle For Bootstrap V5
+
+Just a simple Project add Theme for Dark and Light mode
 
 ## darkmode
 
